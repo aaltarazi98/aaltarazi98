@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+Welcome to my github profile! I am a fullstack developed with a passion for learning new technologies and building ambitious & unique projects. I like engaging with the programming community to make an impact and help others get past stages where I was stuck before! Please check out my repositories and stacks below!
 
-
-## Languages
+### Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
@@ -9,7 +9,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
 </a>
 
-## Front End Stack
+### Front End Stack
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
@@ -29,7 +29,7 @@
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" height="40" width="40" />
 </a>
 
-## Back End Stack
+### Back End Stack
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
@@ -40,7 +40,7 @@
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" height="40" width="40" />
 </a>
 
-## DB Stack
+### DB Stack
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
@@ -48,7 +48,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40" />
 </a>
 
-## Technologies
+### Technologies
 <a href="https://postman.com" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
 </a>
