@@ -39,9 +39,11 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
+&ensp;
 <a href="https://expressjs.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
 </a>
+&ensp;
 <a href="https://socket.io" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" height="40" width="40" />
 </a>
@@ -50,6 +52,7 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
+&ensp;
 <a href="https://www.postgresql.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40" />
 </a>
@@ -58,12 +61,15 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 <a href="https://postman.com" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
 </a>
+&ensp;
 <a href="https://aws.amazon.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />
 </a>
+&ensp;
 <a href="https://www.docker.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" />
 </a>
+&ensp;
 <a href="https://heroku.com" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40" width="40" />
 </a>
