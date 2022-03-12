@@ -9,7 +9,7 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
 </a>
 
-### Front End Stack
+### Frontend
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
@@ -29,7 +29,7 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" height="40" width="40" />
 </a>
 
-### Back End Stack
+### Backend
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
@@ -40,7 +40,7 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" height="40" width="40" />
 </a>
 
-### DB Stack
+### Database
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
