@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my github profile! I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. I like engaging with the programming community to make an impact and help others get past stages where I was stuck before! Please check out my repositories and stacks below!
+Welcome to my github profile! I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. I like engaging with the programming community to learn and educate others when I can. Please check out my skills and project repositories below! 
 
 ### Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
