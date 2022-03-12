@@ -34,6 +34,10 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 <a href="https://mui.com" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" height="40" width="40" />
 </a>
+&ensp;
+<a href="https://reaftrouter.com" target="blank">
+<img align="center" src="https://iconape.com/wp-content/files/sm/371377/svg/371377.svg" alt="React Router" height="40" width="40" />
+</a>
 
 ### Backend
 <a href="https://nodejs.org" target="blank">
@@ -46,6 +50,10 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 &ensp;
 <a href="https://socket.io" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" height="40" width="40" />
+</a>
+&ensp;
+<a href="https://jwt.io" target="blank">
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" height="40" width="40" />
 </a>
 
 ### Database
