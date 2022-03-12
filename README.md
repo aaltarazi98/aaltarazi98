@@ -83,6 +83,6 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 </a>
 &ensp;
 <a href="https://developers.google.com/maps" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/418px-Google_Maps_icon_%282020%29.svg" alt="Google Maps API" height="40" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/1137px-Google_Maps_Logo_2020.svg.png" alt="Google Maps API" height="40" width="40" />
 </a>
 
