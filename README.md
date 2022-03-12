@@ -25,6 +25,9 @@
 <a href="https://redux.js.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
 </a>
+<a href="https://mui.com" target="blank">
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" height="40" width="40" />
+</a>
 
 ## Back End Stack
 <a href="https://nodejs.org" target="blank">
