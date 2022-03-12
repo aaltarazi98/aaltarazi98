@@ -81,4 +81,8 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 <a href="https://heroku.com" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40" width="40" />
 </a>
+&ensp;
+<a href="https://developers.google.com/maps" target="blank">
+<img align="center" src="https://www.pinclipart.com/picdir/middle/85-859233_google-maps-javascript-api-google-maps-api-icon.png" alt="Google Maps API" height="40" width="40" />
+</a>
 
