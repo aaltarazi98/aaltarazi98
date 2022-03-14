@@ -11,7 +11,7 @@ Check out my project demo's below:
 
 ## Tech Stack ⚡
 
-### Languages ⌨️
+### Languages 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
@@ -20,7 +20,7 @@ Check out my project demo's below:
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
 </a>
 
-### Frontend 🖥️
+### Frontend
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
@@ -49,7 +49,7 @@ Check out my project demo's below:
 <img align="center" src="https://iconape.com/wp-content/files/sm/371377/svg/371377.svg" alt="React Router" height="40" width="40" />
 </a>
 
-### Backend 🧬
+### Backend
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
@@ -66,7 +66,7 @@ Check out my project demo's below:
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" height="40" width="40" />
 </a>
 
-### Database 💾
+### Database
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
@@ -75,7 +75,7 @@ Check out my project demo's below:
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40" />
 </a>
 
-### Technologies 🔬
+### Technologies
 <a href="https://postman.com" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
 </a>
