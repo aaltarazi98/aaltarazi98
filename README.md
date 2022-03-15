@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my github profile! I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. I like engaging with the programming community to learn and educate others when I can. Please check out my skills and project repositories below! 
 
-## Project Demo's 👓
+## Project 👓
 Check out my projects below:
 
 - [No Cap Shop](https://no-cap-shop.netlify.app/)
