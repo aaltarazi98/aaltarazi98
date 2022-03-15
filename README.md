@@ -94,6 +94,10 @@ All source code can be found in my pinned repositories.
 <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40" width="40" />
 </a>
 &ensp;
+<a href="https://netlify.com" target="blank">
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Heroku" height="40" width="40" />
+</a>
+&ensp;
 <a href="https://developers.google.com/maps" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/1137px-Google_Maps_Logo_2020.svg.png" alt="Google Maps API" height="40" width="40" />
 </a>
@@ -101,5 +105,4 @@ All source code can be found in my pinned repositories.
 <a href="https://stripe.com/" target="blank">
 <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/stripe-logo-png-transparent.png" alt="Stripe" height="40" width="80" />
 </a>
-
 
