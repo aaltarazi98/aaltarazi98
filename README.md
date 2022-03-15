@@ -4,6 +4,7 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 ## Projects 👓
 Check out my project demo's below:
 
+- [BasePay Webapp & Server (https://master.d3azd6f0sbg7ea.amplifyapp.com/)
 - [No Cap Shop](https://no-cap-shop.netlify.app/)
 - [Ultimate Duel](https://ultimate-duel.herokuapp.com/)
 - [My Summary](https://my-summary-tab.netlify.app/)
@@ -96,4 +97,9 @@ All source code can be found in my pinned repositories.
 <a href="https://developers.google.com/maps" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/1137px-Google_Maps_Logo_2020.svg.png" alt="Google Maps API" height="40" width="40" />
 </a>
+&ensp;
+<a href="https://stripe.com/" target="blank">
+<img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/stripe-logo-png-transparent.png" alt="Stripe" height="40" width="40" />
+</a>
+
 
