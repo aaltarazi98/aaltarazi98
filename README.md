@@ -6,7 +6,7 @@ Check out my project demo's below:
 
 - [No Cap Shop](https://no-cap-shop.netlify.app/)
 - [Ultimate Duel](https://ultimate-duel.herokuapp.com/)
-- [My Summary](https://aaltarazi98.github.io/my-summary/)
+- [My Summary](https://my-summary-tab.netlify.app/)
 
 
 ## Tech Stack ⚡
