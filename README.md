@@ -4,7 +4,7 @@ Welcome to my github profile! I am a fullstack developer with a passion for lear
 ## Projects 👓
 Check out my project demo's below:
 
-- [BasePay Webapp & Server (https://master.d3azd6f0sbg7ea.amplifyapp.com/)
+- [BasePay Webapp & Server](https://master.d3azd6f0sbg7ea.amplifyapp.com/)
 - [No Cap Shop](https://no-cap-shop.netlify.app/)
 - [Ultimate Duel](https://ultimate-duel.herokuapp.com/)
 - [My Summary](https://my-summary-tab.netlify.app/)
@@ -99,7 +99,7 @@ All source code can be found in my pinned repositories.
 </a>
 &ensp;
 <a href="https://stripe.com/" target="blank">
-<img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/stripe-logo-png-transparent.png" alt="Stripe" height="40" width="40" />
+<img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/stripe-logo-png-transparent.png" alt="Stripe" height="40" width="60" />
 </a>
 
 
