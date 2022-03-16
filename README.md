@@ -133,6 +133,6 @@ All source code can be found in my pinned repositories.
 </a>
 &ensp;
 <a href="https://stripe.com/" target="blank">
-<img align="center" src="https://jotformapps.s3.amazonaws.com/156362680544445564115_Stripe.png" alt="Stripe" height="40" width="40" />
+<img align="center" src="https://sbp-plugin-images.s3.eu-west-1.amazonaws.com/technologies1905_5eb57bd25635d_icon.jpg" alt="Stripe" height="40" width="40" />
 </a>
 
