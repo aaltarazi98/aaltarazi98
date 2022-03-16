@@ -2,11 +2,11 @@
 Welcome to my github profile! I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. Please learn more about me, my skills, and projects by reading below!
 
 ## About Me 🦄
-I really enjoy soaking in new technologies and integrating them into my stack with every project I make. Everything I build is something I want to build, not something I read about in a medium article or saw a tutorial on while browsing YouTube. I am passionate about my projects, and enjoy giving them detail down to the molecular level. I've stuck through every project from the very first `git init` to the final stage of connecting its parts online. Although I am continuosly improving my projects, the difference between each is a testament to how much I learned over time.
+I really enjoy soaking in new technologies and integrating them into my stack with every project I make. Everything I build is something I want to build, not something I read about in a medium article or saw a tutorial on while browsing YouTube. I am passionate about my projects and enjoy giving them detail down to the molecular level. I've stuck through every project from the very first `git init` to the final stage of connecting its parts online. Although I am continuously improving my projects, the difference between each is a testament to how much I learned over time.
 
-I like first taking a barebones/lower level approach to building things to get a fundamental understanding of how they work. This gives me the necessary foundation to implement tools and libraries and understand how they work and how much time & effort they can save. This approach has taken me from building simple HTML & CSS pages to looking at hosting my full stack applications anywhere from Heroku to AWS Amplify.
+I like first taking a barebones/lower-level approach to building things to get a fundamental understanding of how they work. This gives me the necessary foundation to implement tools and libraries and understand how they work and how much time & effort they can save. This approach has taken me from building simple HTML & CSS pages to looking at hosting my full stack applications anywhere from Heroku to AWS Amplify.
 
-I am always engaging with the programming community to learn and educate others when I can. Thi allows me to pick up on best practices and reinforce my knowledge by explaining it to others. You can find me browsing around r/reactjs, r/node, and even r/webdev asking AND answering questions.
+I am always engaging with the programming community to learn and educate others when I can. This allows me to pick up on best practices and reinforce my knowledge by explaining it to others. You can find me browsing around r/reactjs, r/node, and even r/webdev asking AND answering questions.
 
 ## Projects 👓
 Check out my project demo's below:
