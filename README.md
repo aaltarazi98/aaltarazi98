@@ -105,11 +105,19 @@ All source code can be found in my pinned repositories.
 </a>
 &ensp;
 <a href="https://aws.amazon.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://www.docker.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" />
+</a>
+&ensp;
+<a href="https://git-scm.com/" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="40" width="40" />
+</a>
+&ensp;
+<a href="https://github.com/" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://heroku.com" target="blank">
