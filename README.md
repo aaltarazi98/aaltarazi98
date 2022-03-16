@@ -75,7 +75,7 @@ All source code can be found in my pinned repositories.
 </a>
 &ensp;
 <a href="https://expressjs.com" target="blank">
-<img align="center" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express" height="40" width="40" />
+<img align="center" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://socket.io" target="blank">
