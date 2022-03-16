@@ -34,6 +34,11 @@ All source code can be found in my pinned repositories.
 <a href="https://www.python.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
 </a>
+&ensp;
+<a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="blank">
+<img align="center" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" alt="Visual Basic for Applications" height="40" width="40" />
+</a>
+
 
 ### Frontend
 <a href="https://reactjs.org/" target="blank">
