@@ -105,7 +105,7 @@ All source code can be found in my pinned repositories.
 </a>
 &ensp;
 <a href="https://aws.amazon.com" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" height="40" width="40" />
+<img align="center" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" alt="AWS" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://www.docker.com/" target="blank">
