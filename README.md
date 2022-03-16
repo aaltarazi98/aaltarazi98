@@ -71,7 +71,7 @@ All source code can be found in my pinned repositories.
 
 ### Backend
 <a href="https://nodejs.org" target="blank">
-<img align="center" src="https://image.pngaaa.com/883/3729883-middle.png" alt="Node.js" height="40" width="40" />
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://expressjs.com" target="blank">
