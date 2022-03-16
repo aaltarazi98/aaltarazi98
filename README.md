@@ -8,6 +8,8 @@ I like first taking a barebones/lower-level approach to building things to get a
 
 I am always engaging with the programming community to learn and educate others when I can. This allows me to pick up on best practices and reinforce my knowledge by explaining it to others. You can find me browsing around r/reactjs, r/node, and even r/webdev asking AND answering questions.
 
+From my construction management and engineering background, I’ve gained a lot of skills that help me stand out as a leader and improve my quality of work as an engineer. I have demonstrated experience in people & team management, working closely with clients, multitasking in fast paced environments, taking an engineered approach to solve problems, and staying on top of project schedules and budges. I can leverage these skills in my software projects because they are crucial for timely delivery of quality client-focused products in team environments
+
 ## Projects 👓
 Check out my project demo's below:
 
