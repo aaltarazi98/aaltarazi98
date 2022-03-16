@@ -133,6 +133,6 @@ All source code can be found in my pinned repositories.
 </a>
 &ensp;
 <a href="https://stripe.com/" target="blank">
-<img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/stripe-logo-png-transparent.png" alt="Stripe" height="40" width="80" />
+<img align="center" src="https://image.pngaaa.com/749/2919749-middle.png" alt="Stripe" height="40" width="40" />
 </a>
 
