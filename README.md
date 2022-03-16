@@ -30,6 +30,10 @@ All source code can be found in my pinned repositories.
 <a href="https://www.typescriptlang.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
 </a>
+&ensp;
+<a href="https://www.python.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+</a>
 
 ### Frontend
 <a href="https://reactjs.org/" target="blank">
