@@ -85,6 +85,10 @@ All source code can be found in my pinned repositories.
 <a href="https://jwt.io" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" height="40" width="40" />
 </a>
+&ensp;
+<a href="https://nodemon.io/" target="blank">
+<img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d." alt="Nodemon" height="40" width="40" />
+</a>
 
 ### Database
 <a href="https://www.mongodb.com/" target="blank">
