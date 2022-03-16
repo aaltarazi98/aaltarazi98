@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my github profile! I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. Please learn more about me, my skills, and project by reading below!
+Welcome to my github profile! I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. Please learn more about me, my skills, and projects by reading below!
 
 ## About Me 🦄
 I really enjoy soaking in new technologies and integrating them into my stack with every project I make. Everything I build is something I want to build, not something I read about in a medium article or saw a tutorial on while browsing YouTube. I am passionate about my projects, and enjoy giving them detail down to the molecular level. I've stuck through every project from the very first `git init` to the final stage of connecting its parts online. Although I am continuosly improving my projects, the difference between each is a testament to how much I learned over time.
