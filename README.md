@@ -71,11 +71,11 @@ All source code can be found in my pinned repositories.
 
 ### Backend
 <a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+<img align="center" src="https://pngset.com/images/node-js-nodejs-number-symbol-text-recycling-symbol-transparent-png-1383018.png" alt="Node.js" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://expressjs.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+<img align="center" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://socket.io" target="blank">
