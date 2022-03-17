@@ -135,8 +135,9 @@ All source code can be found in my pinned repositories.
 <a href="https://stripe.com/" target="blank">
 <img align="center" src="https://sbp-plugin-images.s3.eu-west-1.amazonaws.com/technologies1905_5eb57bd25635d_icon.jpg" alt="Stripe" height="40" width="40" />
 </a>
+&ensp;
 
-##Links 👇
+## Links 👇
 <a href="https://aaltarazi98.github.io/" target="blank">
 <img align="center" src="https://www.pngrepo.com/png/209590/512/portfolio.png" alt="Portfolio Site" height="40" width="40" />
 </a>
