@@ -136,3 +136,11 @@ All source code can be found in my pinned repositories.
 <img align="center" src="https://sbp-plugin-images.s3.eu-west-1.amazonaws.com/technologies1905_5eb57bd25635d_icon.jpg" alt="Stripe" height="40" width="40" />
 </a>
 
+##Links 👇
+<a href="https://aaltarazi98.github.io/" target="blank">
+<img align="center" src="https://www.pngrepo.com/png/209590/512/portfolio.png" alt="Portfolio Site" height="40" width="40" />
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/abdel-altarazi-60b9aa138/" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Page" height="40" width="40" />
+</a>
