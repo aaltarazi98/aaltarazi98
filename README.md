@@ -61,7 +61,7 @@ All source code can be found in my pinned repositories.
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://reaftrouter.com" target="blank">
+<a href="https://reactrouter.com" target="blank">
 <img align="center" src="https://iconape.com/wp-content/files/sm/371377/svg/371377.svg" alt="React Router" height="40" width="40" />
 </a>
 &ensp;
