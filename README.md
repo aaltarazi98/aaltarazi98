@@ -13,6 +13,7 @@ From my construction management and engineering background, I’ve gained a lot 
 ## Projects 👓
 Check out my project demo's below:
 
+- [Portfolio Site](https://aaltarazi98.github.io/)
 - [BasePay Webapp & Server](https://master.d3azd6f0sbg7ea.amplifyapp.com/)
 - [No Cap Shop](https://no-cap-shop.netlify.app/)
 - [Ultimate Duel](https://ultimate-duel.herokuapp.com/)
