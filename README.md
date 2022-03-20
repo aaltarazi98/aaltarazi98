@@ -36,10 +36,6 @@ All source code can be found in my pinned repositories.
 <a href="https://www.python.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
 </a>
-&ensp;
-<a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="blank">
-<img align="center" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" alt="Visual Basic for Applications" height="40" width="40" />
-</a>
 
 
 ### Frontend
@@ -59,14 +55,6 @@ All source code can be found in my pinned repositories.
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
-&ensp;
-<a href="https://reactrouter.com" target="blank">
-<img align="center" src="https://iconape.com/wp-content/files/sm/371377/svg/371377.svg" alt="React Router" height="40" width="40" />
-</a>
-&ensp;
 <a href="https://getbootstrap.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
 </a>
@@ -83,14 +71,6 @@ All source code can be found in my pinned repositories.
 <a href="https://socket.io" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" height="40" width="40" />
 </a>
-&ensp;
-<a href="https://jwt.io" target="blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" height="40" width="40" />
-</a>
-&ensp;
-<a href="https://nodemon.io/" target="blank">
-<img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="Nodemon" height="40" width="40" />
-</a>
 
 ### Database
 <a href="https://www.mongodb.com/" target="blank">
@@ -102,10 +82,6 @@ All source code can be found in my pinned repositories.
 </a>
 
 ### Technologies
-<a href="https://postman.com" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
-</a>
-&ensp;
 <a href="https://aws.amazon.com" target="blank">
 <img align="center" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" alt="AWS" height="40" width="40" />
 </a>
@@ -118,20 +94,12 @@ All source code can be found in my pinned repositories.
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://github.com/" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub" height="40" width="40" />
-</a>
-&ensp;
 <a href="https://heroku.com" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://netlify.com" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Heroku" height="40" width="40" />
-</a>
-&ensp;
-<a href="https://developers.google.com/maps" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/1137px-Google_Maps_Logo_2020.svg.png" alt="Google Maps API" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://stripe.com/" target="blank">
