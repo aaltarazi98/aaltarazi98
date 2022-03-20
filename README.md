@@ -2,13 +2,14 @@
 Welcome to my github profile! I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. Please learn more about me, my skills, and projects by reading below!
 
 ## About Me 🦄
-I really enjoy soaking in new technologies and integrating them into my stack with every project I make. Everything I build is something I want to build, not something I read about in a medium article or saw a tutorial on while browsing YouTube. I am passionate about my projects and enjoy giving them detail down to the molecular level. I've stuck through every project from the very first `git init`, the challenges of integrating a new technology, all the way to the final stage of connecting its parts online. Although I am continuously improving my projects, the difference between each is a testament to how much I learned over time.
+I enjoy learning new technologies for my projects. My projects are built with passion, and I enjoy giving them detail down to the molecular level. There is dedication is behind every project from git init all the way to connecting its client, server, and database online. Although I am continuously improving my projects, the difference between each is a testament to how much I learned over time.
 
-I like first taking a barebones/lower-level approach to building things to get a fundamental understanding of how they work. This gives me the necessary foundation to implement tools and libraries and understand how they work and how much time & effort they can save. This approach has taken me from building simple HTML & CSS pages to looking at hosting my full stack applications anywhere from Heroku to AWS Amplify.
+A barebones/lower-level approach is how I learn best. This gives the foundation to implement tools and libraries, understand how they work, and appreciate how much time they save. This applies to both development and operations.
 
-I am always engaging with the programming community to learn and educate others when I can. This allows me to pick up on best practices and reinforce my knowledge by explaining it to others. You can find me browsing around r/reactjs, r/node, and even r/webdev asking AND answering questions.
+I like to engage with the programming community to learn and educate others. This allows me to pick up on best practices and reinforce my knowledge by teaching it. You can find me browsing the many programming forums answering and asking questions. 
 
-From my construction management and engineering background, I’ve gained a lot of skills that help me stand out as a leader and improve my quality of work as an engineer. I have demonstrated experience in people & team management, working closely with clients, multitasking in fast paced environments, taking an engineered approach to solve problems, and staying on top of project schedules and budges. I can leverage these skills in my software projects because they are crucial for timely delivery of quality client-focused products in team environments.
+My skillset helps me stand out as a leader and improve my quality of work as an engineer. I have demonstrated experience in management, working with clients, engineering to solve problems, and staying on top of project schedules and budges. These skills are crucial for timely delivery of quality products in team environments.
+
 
 ## Projects 👓
 Check out my project demo's below:
