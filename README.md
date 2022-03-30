@@ -15,7 +15,7 @@ My skillset helps me stand out as a leader and improve my quality of work as an 
 Check out my project demo's below:
 
 - [Portfolio Site](https://aaltarazi98.github.io/)
-- [BasePay Webapp & Server](https://master.d3azd6f0sbg7ea.amplifyapp.com/)
+- [BasePay Webapp & Server](https://www.basepay.app/)
 - [No Cap Shop](https://no-cap-shop.netlify.app/)
 - [Ultimate Duel](https://ultimate-duel.herokuapp.com/)
 - [My Summary](https://my-summary-tab.netlify.app/)
