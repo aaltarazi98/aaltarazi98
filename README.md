@@ -22,7 +22,7 @@ I also have written a fullstack self-learning guide, with almost 500 stars and 5
 ## Projects 👓
 Check out my project demo's below:
 
-(Please note that these are outdated and I am working on rehosting them)
+(Please note that some of these are outdated and I am working on rehosting them)
 
 - [⭐ Fullstack Developer Guide](https://github.com/aaltarazi98/fullstack-guide-2022)
 - [Portfolio Site](https://aaltarazi98.github.io/)
