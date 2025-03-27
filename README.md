@@ -12,8 +12,12 @@ I like to engage with the programming community to learn and educate others. Thi
 
 My skillset helps me stand out as a leader and improve my quality of work as an engineer. I have demonstrated experience in cloud architecture, systems & backend design, management, working with clients, engineering to solve problems, and staying on top of project schedules and budges. These skills are crucial for timely delivery of quality products in team environments.
 
-I also have written a fullstack self-learning guide, with almost 500 stars and 50 forks! 
+I also have written a fullstack self-learning guide, with almost 500 stars and 50 forks!
 
+## Work Experience 📝
+- Fullstack Software Engineer @ [NomadMD](https://www.nomadmd.app/)
+- Product Engineer @ [Miter](https://www.miter.com/)
+- Software Engineer @ [Khanetic Solutions](https://www.khaneticsolutions.com/)
 
 ## Projects 👓
 Check out my project demo's below:
