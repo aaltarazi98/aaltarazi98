@@ -1,23 +1,26 @@
 ## Hi there 👋
-Welcome to my github profile! I am a fullstack developer with a passion for learning new technologies and building ambitious & unique projects. Please learn more about me, my skills, and projects by reading below!
+Welcome to my github profile! I am a fullstack a proven track record of designing and implementing scalable and compliant platforms, and delivering impactful solutions in team-driven environments. Skilled in creating intuitive user interfaces, robust backend systems, and integrating third-party services for seamless operations. Passionate about learning, solving complex technical challenges, and driving innovation in the software development lifecycle.
 
 ## About Me 🦄
-I enjoy learning new technologies for my projects. My projects are built with passion, and I enjoy giving them detail down to the molecular level. There is dedication is behind every project from git init all the way to connecting its client, server, and database online. Although I am continuously improving my projects, the difference between each is a testament to how much I learned over time.
+I enjoy learning new technologies for my projects. My projects are built with passion, and I enjoy giving them detail down to the molecular level. There is dedication is behind every project from git init all the way to making all of its components available to the public.
+
+My linked projects are from when I was beginning to learn software. Although they are old, the difference between each is a testament to how much I learned over time. I build many projects offline, like an OCR based PDF to text converter and a Civilization 7 analysis tool!
 
 A barebones/lower-level approach is how I learn best. This gives the foundation to implement tools and libraries, understand how they work, and appreciate how much time they save. This applies to both development and operations.
 
 I like to engage with the programming community to learn and educate others. This allows me to pick up on best practices and reinforce my knowledge by teaching it. You can find me browsing the many programming forums answering and asking questions. 
 
-My skillset helps me stand out as a leader and improve my quality of work as an engineer. I have demonstrated experience in management, working with clients, engineering to solve problems, and staying on top of project schedules and budges. These skills are crucial for timely delivery of quality products in team environments.
+My skillset helps me stand out as a leader and improve my quality of work as an engineer. I have demonstrated experience in cloud architecture, systems & backend design, management, working with clients, engineering to solve problems, and staying on top of project schedules and budges. These skills are crucial for timely delivery of quality products in team environments.
 
 
 ## Projects 👓
+(Please note that these are outdated and I am working on rehosting them)
 Check out my project demo's below:
 
 - [Portfolio Site](https://aaltarazi98.github.io/)
-- [BasePay Webapp & Server](https://www.basepay.app/)
+- [BasePay Webapp & Server](https://www.basepay.app/) (needs rehosting)
 - [No Cap Shop](https://no-cap-shop.netlify.app/)
-- [Ultimate Duel](https://ultimate-duel.herokuapp.com/)
+- [Ultimate Duel](https://ultimate-duel.herokuapp.com/) (needs rehosting)
 - [My Summary](https://my-summary-tab.netlify.app/)
 
 All source code can be found in my pinned repositories.
