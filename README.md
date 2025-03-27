@@ -55,7 +55,7 @@ All source code can be found in my pinned repositories.
 </a>
 &ensp;
 <a href="https://nextjs.org/" target="blank">
-<img align="center" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js" height="40" width="40" />
+<img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://redux.js.org" target="blank">
