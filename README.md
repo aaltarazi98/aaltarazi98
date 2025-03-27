@@ -15,7 +15,7 @@ My skillset helps me stand out as a leader and improve my quality of work as an 
 I also have written a fullstack self-learning guide, with almost 500 stars and 50 forks!
 
 ## Work Experience 📝
-- Fullstack Software Engineer @ [NomadMD](https://www.nomadmd.app/)
+- Software Engineer @ [NomadMD](https://www.nomadmd.app/)
 - Product Engineer @ [Miter](https://www.miter.com/)
 - Software Engineer @ [Khanetic Solutions](https://www.khaneticsolutions.com/)
 
