@@ -36,101 +36,101 @@ All source code can be found in my pinned repositories.
 ## Tech Stack ⚡
 
 ### Languages
-<a href="https://www.typescriptlang.org/" target="blank">
+<a href="https://www.typescriptlang.org/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://www.python.org" target="blank">
+<a href="https://www.python.org" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
 </a>
 
 
 ### Frontend
-<a href="https://reactjs.org/" target="blank">
+<a href="https://reactjs.org/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://nextjs.org/" target="blank">
+<a href="https://nextjs.org/" target="_blank">
 <img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://redux.js.org" target="blank">
+<a href="https://redux.js.org" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://mui.com" target="blank">
+<a href="https://mui.com" target="_blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://www.w3schools.com/css/" target="blank">
+<a href="https://www.w3schools.com/css/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://getbootstrap.com" target="blank">
+<a href="https://getbootstrap.com" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
 </a>
 
 ### Backend
-<a href="https://nodejs.org" target="blank">
+<a href="https://nodejs.org" target="_blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://graphql.org/" target="blank">
+<a href="https://graphql.org/" target="_blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://expressjs.com" target="blank">
+<a href="https://expressjs.com" target="_blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://socket.io" target="blank">
+<a href="https://socket.io" target="_blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" height="40" width="40" />
 </a>
 
 ### Database
-<a href="https://www.mongodb.com/" target="blank">
+<a href="https://www.mongodb.com/" target="_blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://www.postgresql.org" target="blank">
+<a href="https://www.postgresql.org" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40" />
 </a>
 
 ### Technologies
-<a href="https://aws.amazon.com" target="blank">
+<a href="https://aws.amazon.com" target="_blank">
 <img align="center" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" alt="AWS" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://www.docker.com/" target="blank">
+<a href="https://www.docker.com/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://git-scm.com/" target="blank">
+<a href="https://git-scm.com/" target="_blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://heroku.com" target="blank">
+<a href="https://heroku.com" target="_blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://netlify.com" target="blank">
+<a href="https://netlify.com" target="_blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Heroku" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://stripe.com/" target="blank">
+<a href="https://stripe.com/" target="_blank">
 <img align="center" src="https://sbp-plugin-images.s3.eu-west-1.amazonaws.com/technologies1905_5eb57bd25635d_icon.jpg" alt="Stripe" height="40" width="40" />
 </a>
 &ensp;
 
 ## Links 👇
-<a href="https://aaltarazi98.github.io/" target="blank">
+<a href="https://aaltarazi98.github.io/" target="_blank">
 <img align="center" src="https://www.pngrepo.com/png/209590/512/portfolio.png" alt="Portfolio Site" height="40" width="40" />
 </a>
 &ensp;
-<a href="https://www.linkedin.com/in/abdel-altarazi-60b9aa138/" target="blank">
+<a href="https://www.linkedin.com/in/abdel-altarazi-60b9aa138/" target="_blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Page" height="40" width="40" />
 </a>
