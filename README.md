@@ -54,6 +54,10 @@ All source code can be found in my pinned repositories.
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
 &ensp;
+<a href="https://nextjs.org/" target="blank">
+<img align="center" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js" height="40" width="40" />
+</a>
+&ensp;
 <a href="https://redux.js.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
 </a>
@@ -73,6 +77,10 @@ All source code can be found in my pinned repositories.
 ### Backend
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="40" width="40" />
+</a>
+&ensp;
+<a href="https://graphql.org/" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" height="40" width="40" />
 </a>
 &ensp;
 <a href="https://expressjs.com" target="blank">
