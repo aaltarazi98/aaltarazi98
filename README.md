@@ -36,7 +36,7 @@ All source code can be found in my pinned repositories.
 ## Tech Stack ⚡
 
 ### Languages
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
 </a>
 &ensp;
