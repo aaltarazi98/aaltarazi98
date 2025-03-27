@@ -14,8 +14,9 @@ My skillset helps me stand out as a leader and improve my quality of work as an 
 
 
 ## Projects 👓
-(Please note that these are outdated and I am working on rehosting them)
 Check out my project demo's below:
+
+(Please note that these are outdated and I am working on rehosting them)
 
 - [Portfolio Site](https://aaltarazi98.github.io/)
 - [BasePay Webapp & Server](https://www.basepay.app/) (needs rehosting)
