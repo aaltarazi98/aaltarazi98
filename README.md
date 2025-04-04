@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my github profile! I am a fullstack a proven track record of designing and implementing scalable and compliant platforms, and delivering impactful solutions in team-driven environments. Skilled in creating intuitive user interfaces, robust backend systems, and integrating third-party services for seamless operations. Passionate about learning, solving complex technical challenges, and driving innovation in the software development lifecycle.
+Welcome to my github profile! I am a fullstack developer with a proven track record of designing and implementing scalable and compliant platforms, and delivering impactful solutions in team-driven environments. Skilled in creating intuitive user interfaces, robust backend systems, and integrating third-party services for seamless operations. Passionate about learning, solving complex technical challenges, and driving innovation in the software development lifecycle.
 
 ## About Me 🦄
 I enjoy learning new technologies for my projects. My projects are built with passion, and I enjoy giving them detail down to the molecular level. There is dedication is behind every project from git init all the way to making all of its components available to the public.
